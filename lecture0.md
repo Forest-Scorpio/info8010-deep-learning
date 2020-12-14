@@ -1,6 +1,6 @@
 class: middle, center, title-slide
 
-# Deep Learning
+# Deep 
 
 Lecture 0: Introduction
 
